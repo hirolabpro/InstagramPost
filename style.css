@@ -1,0 +1,60 @@
+body {background: #D7DBDD; margin-top: 60px;}
+div.post {width: 490px; margin: auto; background: #FDFEFE; border-style: groove;}
+div.picture img {width: 100%;}
+
+div.html5-1 {
+
+    display: inline-block;
+    float: left;
+    overflow: 0;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+div.html5-2 {
+
+    display: inline-block;
+    float: left;
+    overflow: 0;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+}
+
+div.setting {
+
+    display: inline-block;
+    float: right;
+    overflow: 0;
+    margin-top: 20px;
+    margin-bottom: 20px; 
+    margin-right: 18px;
+}
+
+
+div.first { padding-left: 10px; padding-top: 10px;}
+
+
+div.middle {
+
+  font-family: 'Yusei Magic', sans-serif;
+  font-size: small;
+  padding-left: 10px;
+
+}
+
+
+div.final {
+
+    padding-left: 10px;
+    padding-right: 10px;
+    font-family: 'Yusei Magic', sans-serif;
+    font-size: small;
+}
+
+
+div.corner {
+    float: right;
+    overflow: 0;
+    padding-right: 10px;
+}
